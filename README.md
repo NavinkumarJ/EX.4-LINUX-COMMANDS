@@ -1,7 +1,7 @@
 # OS EX.4-LINUX-COMMANDS
 
 AIM:
-
+to undersstad
 COMMAND1:
 OUTPUT1:
 
